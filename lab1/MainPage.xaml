@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab1.MainPage"
+             Title="XML Document Processor">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Label Text="1. Оберіть XML файл: "
+                    FontSize="24"
+                    VerticalOptions="Center"
+                    HorizontalOptions="StartAndExpand" />
+
+                <Label x:Name="FilePathLabel"
+                    Text="No file chosen"
+                    FontSize="16"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center" />
+
+                <Button Text="Обрати..."
+                    FontSize="20"
+                    WidthRequest="200"
+                    HeightRequest="60"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    BackgroundColor="Gray"
+                    CornerRadius="0"
+                    BorderColor="Black"
+                    BorderWidth="2"
+                    Clicked="OnBrowseClicked" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Label Text="2. Оберіть атрибут: "
+                    FontSize="24"
+                    VerticalOptions="Center"
+                    HorizontalOptions="StartAndExpand"/>
+
+                <Picker x:Name="AttributePicker"
+                    FontSize="16"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    WidthRequest="200">
+                </Picker>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Label Text="3. Оберіть метод обробки: "
+                    FontSize="24"
+                    VerticalOptions="Center"
+                    HorizontalOptions="StartAndExpand"/>
+
+                <Picker x:Name="ParsingMethodPicker"
+                        FontSize="16"
+                        VerticalOptions="Center"
+                        HorizontalOptions="End"
+                        WidthRequest="200">
+                    <Picker.Items>
+                        <x:String>SAX</x:String>
+                        <x:String>DOM</x:String>
+                        <x:String>LINQ</x:String>
+                    </Picker.Items>
+                </Picker>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Editor x:Name="OutputField"
+                    FontSize="16"
+                    Placeholder="Інформація буде виведена тут..."
+                    IsReadOnly="True"
+                    BackgroundColor="LightGray"
+                    TextColor="Black"
+                    VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand"
+                    WidthRequest="300"    
+                    HeightRequest="300" 
+                    Margin="20,10" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Button Text="Пошук"
+                    FontSize="20"
+                    WidthRequest="200"
+                    HeightRequest="60"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    BackgroundColor="Gray"
+                    CornerRadius="0"
+                    BorderColor="Black"
+                    BorderWidth="2"
+                    Clicked="OnSearchClicked" />
+                <Button Text="Очистити"
+                    FontSize="20"
+                    WidthRequest="200"
+                    HeightRequest="60"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End" 
+                    BackgroundColor="Gray"
+                    CornerRadius="0"
+                    BorderColor="Black"
+                    BorderWidth="2"
+                    Clicked="OnClearClicked" />
+                <Button Text="Трансформувати в HTML"
+                    FontSize="20"
+                    WidthRequest="200"
+                    HeightRequest="60"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    BackgroundColor="Gray"
+                    CornerRadius="0"
+                    BorderColor="Black"
+                    BorderWidth="2"
+                    Clicked="OnTransformToHtmlClicked" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Padding="20" Spacing="100" HorizontalOptions="Center">
+                <Button Text="Вихід"
+                    FontSize="20"
+                    WidthRequest="200"
+                    HeightRequest="60"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    BackgroundColor="Gray"
+                    CornerRadius="0"
+                    BorderColor="Black"
+                    BorderWidth="2"
+                    Clicked="OnExitClicked" />
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

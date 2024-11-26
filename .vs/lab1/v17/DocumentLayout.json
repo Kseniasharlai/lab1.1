@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diman\\source\\repos\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\test.xsl||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\xmlparsercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\xmlparsercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\ixmlparserstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\ixmlparserstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\domxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\domxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\saxxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\saxxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|c:\\users\\diman\\source\\repos\\lab1\\lab1\\linqxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D65C770-F17C-4366-8078-91A0B71F62BD}|lab1\\lab1.csproj|solutionrelative:lab1\\linqxmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "lab1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\MainPage.xaml.cs",
+              "RelativeToolTip": "lab1\\MainPage.xaml.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAwwI8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:10:49.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "lab1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\MainPage.xaml",
+              "RelativeToolTip": "lab1\\MainPage.xaml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T12:31:26.33Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.xsl",
+              "DocumentMoniker": "D:\\test.xsl",
+              "ToolTip": "D:\\test.xsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2024-11-26T17:48:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlParserContext.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\XmlParserContext.cs",
+              "RelativeDocumentMoniker": "lab1\\XmlParserContext.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\XmlParserContext.cs",
+              "RelativeToolTip": "lab1\\XmlParserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:58:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaxXmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\SaxXmlParser.cs",
+              "RelativeDocumentMoniker": "lab1\\SaxXmlParser.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\SaxXmlParser.cs",
+              "RelativeToolTip": "lab1\\SaxXmlParser.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:58:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinqXmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\LinqXmlParser.cs",
+              "RelativeDocumentMoniker": "lab1\\LinqXmlParser.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\LinqXmlParser.cs",
+              "RelativeToolTip": "lab1\\LinqXmlParser.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:58:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomXmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\DomXmlParser.cs",
+              "RelativeDocumentMoniker": "lab1\\DomXmlParser.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\DomXmlParser.cs",
+              "RelativeToolTip": "lab1\\DomXmlParser.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:58:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IXmlParserStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\IXmlParserStrategy.cs",
+              "RelativeDocumentMoniker": "lab1\\IXmlParserStrategy.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\lab1\\lab1\\IXmlParserStrategy.cs",
+              "RelativeToolTip": "lab1\\IXmlParserStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:58:22.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
